@@ -33,4 +33,6 @@ bash git-icons.sh
 
 - untuk penjelasan nya silakan cek
 
-<a <img src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" width="40" > </a>
+<a
+<img src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" width="40" />
+</a>
