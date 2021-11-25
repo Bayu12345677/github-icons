@@ -12,3 +12,12 @@
 generate icons github hanya dengan `terminal`
 
 * how to install
+```dart
+$ apt update
+$ apt full-upgrade
+$ apt install python
+$ pip install httpie
+$ apt install dialog
+$ apt install wget
+$ apt install git
+```
