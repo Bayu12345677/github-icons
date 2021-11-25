@@ -11,4 +11,4 @@
 
 generate icons github hanya dengan `terminal`
 
-** how to install
+** how to install **
