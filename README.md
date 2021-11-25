@@ -31,4 +31,6 @@ cd github-icons
 bash git-icons.sh
 ```
 
-- untuk penjelasan nya silakan cek [![t](
+- untuk penjelasan nya silakan cek
+
+<a <img src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" width="40" ></a>
