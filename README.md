@@ -6,3 +6,9 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Bayu12345677/github-icons?style=social)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 [![GitHub forks](https://img.shields.io/github/forks/Bayu12345677/github-icons?logo=%3Av&logoColor=green&style=plastic)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 [![h](https://img.shields.io/github/issues/Bayu12345677/github-icons)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+
+# Github icons 📱
+
+generate icons github hanya dengan `terminal`
+
+** how to install
