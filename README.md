@@ -20,4 +20,13 @@ $ pip install httpie
 $ apt install dialog
 $ apt install wget
 $ apt install git
+$ apt install setterm
+$ apt install curl
+```
+
+- repo
+```
+git clone https://github.com/Bayu12345677/github-icons
+cd github-icons
+bash git-icons.sh
 ```
