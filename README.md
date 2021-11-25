@@ -35,5 +35,5 @@ bash git-icons.sh
 
 <p align="center">
    href="https://youtu.be/gHH2O8ZcseI">
-  <img src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" width="40" />
+  <img src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" width="40">
 </p>
