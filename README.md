@@ -30,3 +30,5 @@ git clone https://github.com/Bayu12345677/github-icons
 cd github-icons
 bash git-icons.sh
 ```
+
+- untuk penjelasan nya silakan cek [![t](
